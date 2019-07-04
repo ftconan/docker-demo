@@ -1,6 +1,5 @@
 # docker-demo
-### docker demo
-### reference: https://yeasy.gitbooks.io/docker_practice/content/
+### Docker — 从入门到实践: https://yeasy.gitbooks.io/docker_practice/content/
 * Docker简介
 * 基本概念
 * 安装Docker
